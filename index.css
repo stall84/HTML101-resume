@@ -1,28 +1,64 @@
 
-#educationHeader {
-    font-family:Oswald, Arial, Helvetica, sans-serif;
-    text-align: center;
+
+body {
+    background-image: url("/images/backgroundPicStars.jpg");
+    position: fixed;
+    background-size: cover;
 }
 
 #nomenclature {
+    color: white;
+    text-shadow: -.2px -.2px 0 red, .2px -.2px 0 red, -.2px .2px 0 red, .2px .2px 0 red;
+    margin: 25px;
     font-family: Oswald, "Times New Roman", sans-serif;
     font-size: 15px;
-    color: red;
+    text-align: center;
+    
 
 }
 
 #header {
-    position: relative;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    text-shadow: -.25px -.25px 0 red, .25px -.25px 0 red, -.25px .25px 0 red, .25px .25px 0 red;
+    margin: 35px;
+    text-align: center;
 }
 
 #header img {
+    
+    border-radius: 80%;
     width: 150px;
     height: 150px;
-    float: center;    
+        
+}
+
+#educationHeader {
+    font-family: Roboto, Oswald, Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow: -.2px -.2px 0 red, .2px -.2px 0 red, -.2px .2px 0 red, .2px .2px 0 red;
+    text-align: center;
+}
+
+.education1 {
+    color: white;
+    text-shadow: -.2px -.2px 0 red, .2px -.2px 0 red, -.2px .2px 0 red, .2px .2px 0 red;
+}
+
+#links {
+    margin: 50px;
+    text-align: center;
 }
 
 #links img {
+    
+    background-color: white;
     width: 75px;
     height: 30px;
 
+}
+
+footer {
+    color: white;
+    text-align: center;
 }
