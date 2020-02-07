@@ -45,6 +45,23 @@ body {
     text-shadow: -.2px -.2px 0 red, .2px -.2px 0 red, -.2px .2px 0 red, .2px .2px 0 red;
 }
 
+#projectsHeader {
+    text-align: center;
+    color: white;
+    text-shadow: -.2px -.2px 0 red, .2px -.2px 0 red, -.2px .2px 0 red, .2px .2px 0 red;
+    
+}
+
+.projList li {
+    text-align: center;
+    color: yellow;
+}
+
+.projList a {
+    color: yellow;
+}
+
+
 #links {
     margin: 50px;
     text-align: center;
