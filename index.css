@@ -1,0 +1,28 @@
+
+#educationHeader {
+    font-family:Oswald, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#nomenclature {
+    font-family: Oswald, "Times New Roman", sans-serif;
+    font-size: 15px;
+    color: red;
+
+}
+
+#header {
+    position: relative;
+}
+
+#header img {
+    width: 150px;
+    height: 150px;
+    float: center;    
+}
+
+#links img {
+    width: 75px;
+    height: 30px;
+
+}
