@@ -2,7 +2,7 @@
 
 body {
     background-image: url("/images/backgroundPicStars.jpg");
-    position: fixed;
+    position: relative;
     background-size: cover;
 }
 
